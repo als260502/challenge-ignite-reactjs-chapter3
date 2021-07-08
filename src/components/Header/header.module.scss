@@ -1,1 +1,17 @@
-// TODO
+.postHeader{
+  height:6rem;
+  max-width:700;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+
+}
+
+
+.post{
+  h2{
+    font-size: 2.25rem;
+    color: var(--heading);
+    margin: 3rem 0;
+  }
+}
