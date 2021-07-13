@@ -1,5 +1,5 @@
 import { GetStaticProps } from 'next';
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { FiCalendar, FiUser } from 'react-icons/fi';
 import Link from 'next/link';
 import Prismic from '@prismicio/client';
